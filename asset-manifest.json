@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Aslan-Zazi/robot-friends_hooks/static/css/main.2396e1ed.chunk.css",
+    "main.js": "/Aslan-Zazi/robot-friends_hooks/static/js/main.44aea810.chunk.js",
+    "main.js.map": "/Aslan-Zazi/robot-friends_hooks/static/js/main.44aea810.chunk.js.map",
+    "runtime-main.js": "/Aslan-Zazi/robot-friends_hooks/static/js/runtime-main.09c54387.js",
+    "runtime-main.js.map": "/Aslan-Zazi/robot-friends_hooks/static/js/runtime-main.09c54387.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Aslan-Zazi/robot-friends_hooks/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c61b69b5.chunk.js": "/Aslan-Zazi/robot-friends_hooks/static/js/2.c61b69b5.chunk.js",
+    "static/js/2.c61b69b5.chunk.js.map": "/Aslan-Zazi/robot-friends_hooks/static/js/2.c61b69b5.chunk.js.map",
+    "index.html": "/Aslan-Zazi/robot-friends_hooks/index.html",
+    "precache-manifest.ae46256f4d175eb33f341469f37843a1.js": "/Aslan-Zazi/robot-friends_hooks/precache-manifest.ae46256f4d175eb33f341469f37843a1.js",
+    "service-worker.js": "/Aslan-Zazi/robot-friends_hooks/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Aslan-Zazi/robot-friends_hooks/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.2396e1ed.chunk.css.map": "/Aslan-Zazi/robot-friends_hooks/static/css/main.2396e1ed.chunk.css.map",
+    "static/js/2.c61b69b5.chunk.js.LICENSE.txt": "/Aslan-Zazi/robot-friends_hooks/static/js/2.c61b69b5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Aslan-Zazi/robot-friends_hooks/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09c54387.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c61b69b5.chunk.js",
+    "static/css/main.2396e1ed.chunk.css",
+    "static/js/main.44aea810.chunk.js"
+  ]
+}
